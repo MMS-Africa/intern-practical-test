@@ -27,3 +27,7 @@ Add your information below following this format:
 ## Intern Entries
 
 (Add your entry below this line)
+## Bonolo Mathe
+-Role: Intern - Full Stack Development
+-Path 2 Completed: 2026-01-29
+-GitHub: @bonolo-mathe
