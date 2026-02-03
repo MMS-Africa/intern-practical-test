@@ -4,14 +4,10 @@ This file tracks all interns who have completed Path 2.
 
 ---
 
-## Instructions for Interns
-
-Add your information below following this format:
-
-## Your Full Name
-- Role: Intern - Full Stack Development
-- Path 2 Completed: [Date]
-- GitHub: @your-github-username
+## Naretia
+- Role: Intern: MMS AFRICA
+- Path 2 Completed: 2026-01-29
+- GitHub: naretia22
 
 ---
 
@@ -26,4 +22,4 @@ Add your information below following this format:
 
 ## Intern Entries
 
-(Add your entry below this line)
+Naretia
