@@ -10,8 +10,8 @@ Add your information below following this format:
 
 ## Your Full Name
 - Role: Intern - Full Stack Development
-- Path 2 Completed: [2026-02-03]
-- GitHub: @mbalenhlesindisiwe431-beep
+- Path 2 Completed: [Date]
+- GitHub: @your-github-username
 
 ---
 
@@ -27,4 +27,7 @@ Add your information below following this format:
 ## Intern Entries
 
 (Add your entry below this line)
-Completed by Sindisiwe
+## Sindisiwe Malinga
+- Role: Intern - Full Stack Development
+- Path 2 Completed: 2026-02-03
+- GitHub: @mbalenhlesindisiwe431-beep 
